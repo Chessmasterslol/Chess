@@ -10,7 +10,6 @@ namespace Chess
     {
         static void Main(string[] args)
         {
-            int a = 17;
         }
     }
 }
