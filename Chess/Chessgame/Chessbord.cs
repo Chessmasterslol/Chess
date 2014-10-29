@@ -4,12 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Chess
+namespace Chessgame
 {
-    class Program
+    class Chessbord
     {
-        static void Main(string[] args)
-        {
-        }
-    }
+    }   
 }

@@ -4,13 +4,14 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{08E01FF6-4727-4AE9-857C-F03987519FCE}</ProjectGuid>
+    <ProjectGuid>{70165AD5-EDCC-48EB-93E4-B45AA6F4ED95}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Chess</RootNamespace>
-    <AssemblyName>Chess</AssemblyName>
-    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <RootNamespace>Chessgame</RootNamespace>
+    <AssemblyName>Chessgame</AssemblyName>
+    <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -41,8 +42,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="bishops.cs" />
+    <Compile Include="Chessbord.cs" />
+    <Compile Include="ChessMoves.cs" />
+    <Compile Include="ChessPiece.cs" />
+    <Compile Include="king.cs" />
+    <Compile Include="knights.cs" />
+    <Compile Include="pawns.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="queen.cs" />
+    <Compile Include="rooks.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
