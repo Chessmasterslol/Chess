@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Chessgame
 {
-    class pawns : ChessMoves
+    class pawns 
     {
         private bool FirstMove = true;
 

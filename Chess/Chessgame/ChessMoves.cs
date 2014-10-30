@@ -10,7 +10,10 @@ namespace Chessgame
     {
         public int positionX { get; set; }
         public int positionY { get; set; }
-
-
+        
+        public int x;
+        public int y;
+       
     }
 }
+

@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace Chessgame
 {
-    public class Moves
+    class Class1
     {
-
-        public int x;
-        public int y;
-
     }
 }
