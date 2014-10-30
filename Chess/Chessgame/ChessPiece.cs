@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Chessgame
 {
-     class ChessPiece
+     class ChessPiece : Moves
     {
         king kung = new king();
         queen drottning = new queen();
@@ -15,6 +15,10 @@ namespace Chessgame
         knights häst = new knights();
         pawns bönder = new pawns();
 
+     
+            private List<Moves> possibleMoves { get; set; }
 
+           
+        }
     }
-}
+
