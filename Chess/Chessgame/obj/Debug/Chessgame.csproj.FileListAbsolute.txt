@@ -4,3 +4,6 @@ c:\users\christopher\documents\visual studio 2013\Projects\Chess\Chessgame\bin\D
 c:\users\christopher\documents\visual studio 2013\Projects\Chess\Chessgame\bin\Debug\Chessgame.pdb
 c:\users\christopher\documents\visual studio 2013\Projects\Chess\Chessgame\obj\Debug\Chessgame.exe
 c:\users\christopher\documents\visual studio 2013\Projects\Chess\Chessgame\obj\Debug\Chessgame.pdb
+C:\Users\Christopher\Documents\GitHub\Chess\Chess\Chessgame\bin\Debug\Chessgame.exe.config
+C:\Users\Christopher\Documents\GitHub\Chess\Chess\Chessgame\obj\Debug\Chessgame.exe
+C:\Users\Christopher\Documents\GitHub\Chess\Chess\Chessgame\obj\Debug\Chessgame.pdb

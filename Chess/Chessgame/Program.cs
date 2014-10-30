@@ -37,5 +37,11 @@ namespace Chessgame
 
 
         }
+        public enum ChessColor
+        {
+            White,
+            Black,
+        }
+    }
     }
 }
