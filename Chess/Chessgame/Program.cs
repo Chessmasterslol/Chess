@@ -10,7 +10,7 @@ namespace Chessgame
     {
         static void Main(string[] args)
         {
-           
+
             Chessbord chess = new Chessbord();
 
 
@@ -21,5 +21,5 @@ namespace Chessgame
             Black,
         }
     }
-    }
+}
 
