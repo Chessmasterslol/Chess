@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Chessgame
 {
+    //Styr Hästarna
     class Knight : ChessMoves
     {
         public void Move()

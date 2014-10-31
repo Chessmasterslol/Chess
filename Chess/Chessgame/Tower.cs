@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 
 namespace Chessgame
 {
+
+    //Styr Tornen
     class Tower : ChessMoves
     {
         public void Move()

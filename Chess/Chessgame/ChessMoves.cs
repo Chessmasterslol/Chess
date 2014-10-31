@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace Chessgame
 {
+    //ska styra Var pjäserna kan gå och sådant.
     public class ChessMoves
     {
         public int positionX { get; set; }

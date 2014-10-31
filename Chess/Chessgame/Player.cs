@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Chessgame
 {
+    //Styr Spelaren
     class Player
     {
        

@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Chessgame
 {
+    //Styr Drottningen
     class Queen : ChessMoves
     {
         public void Move()
