@@ -10,3 +10,6 @@ C:\Users\Christopher\Documents\GitHub\Chess\Chess\Chessgame\obj\Debug\Chessgame.
 C:\Users\Christopher\Documents\GitHub\Chess\Chess\Chessgame\obj\Debug\Chessgame.csprojResolveAssemblyReference.cache
 C:\Users\Christopher\Documents\GitHub\Chess\Chess\Chessgame\bin\Debug\Chessgame.exe
 C:\Users\Christopher\Documents\GitHub\Chess\Chess\Chessgame\bin\Debug\Chessgame.pdb
+F:\GITHUB FILER (NO REMOVE)\Chess\Chess\Chessgame\bin\Debug\Chessgame.exe.config
+F:\GITHUB FILER (NO REMOVE)\Chess\Chess\Chessgame\obj\Debug\Chessgame.exe
+F:\GITHUB FILER (NO REMOVE)\Chess\Chess\Chessgame\obj\Debug\Chessgame.pdb

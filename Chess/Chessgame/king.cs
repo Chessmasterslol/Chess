@@ -6,9 +6,11 @@ using System.Threading.Tasks;
 
 namespace Chessgame
 {
-   internal class king : ChessMoves
+   internal class King : Fat
     {
-        public void Move() 
+       
+
+       public void Move() 
         {
             
         }

@@ -42,19 +42,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="bishops.cs" />
+    <Compile Include="Bishop.cs" />
     <Compile Include="Chessbord.cs" />
     <Compile Include="ChessMoves.cs" />
     <Compile Include="ChessPiece.cs" />
     <Compile Include="Class1.cs" />
-    <Compile Include="king.cs" />
-    <Compile Include="knights.cs" />
-    <Compile Include="pawns.cs" />
+    <Compile Include="King.cs" />
+    <Compile Include="Knight.cs" />
+    <Compile Include="Pawn.cs" />
     <Compile Include="Player.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="queen.cs" />
-    <Compile Include="rooks.cs" />
+    <Compile Include="Queen.cs" />
+    <Compile Include="Tower.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

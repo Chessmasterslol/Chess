@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Chessgame
 {
-    class queen : ChessMoves
+    class Queen : ChessMoves
     {
         public void Move()
         {

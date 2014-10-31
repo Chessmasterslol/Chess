@@ -6,11 +6,10 @@ using System.Threading.Tasks;
 
 namespace Chessgame
 {
-    class rooks : ChessMoves
+    class Knight : ChessMoves
     {
         public void Move()
         {
-
         }
     }
 }

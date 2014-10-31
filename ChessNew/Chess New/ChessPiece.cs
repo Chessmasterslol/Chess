@@ -28,13 +28,6 @@ namespace Chess_New
 
     public class ChessPiece : ChessMoves
     {
-        King king = new King();
-        Queen queen = new Queen();
-        Bishop bishop = new Bishop();
-        Knight knight = new Knight();
-        Peasant peasant = new Peasant();
-        Tower tower = new Tower();
-
         public void GetPosition()
         {
             

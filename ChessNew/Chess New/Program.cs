@@ -10,6 +10,13 @@ namespace Chess_New
     {
         static void Main(string[] args)
         {
+            King king = new King();
+            Queen queen = new Queen();
+            Bishop bishop = new Bishop();
+            Knight knight = new Knight();
+            Peasant peasant = new Peasant();
+            Tower tower = new Tower();
+
         }
     }
 }

@@ -10,27 +10,22 @@ namespace Chess_New
     {
         
     }
-
     class Queen : ChessMoves
     {
          
     }
-
     class Peasant : ChessMoves
     {
          
     }
-
     class Bishop : ChessMoves
     {
         
     }
-
     class Tower : ChessMoves
     {
         
     }
-
     class Knight : ChessMoves
     {
         

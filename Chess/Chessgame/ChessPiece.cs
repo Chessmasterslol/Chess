@@ -8,13 +8,14 @@ namespace Chessgame
 {
      class ChessPiece  
     {
-        king kung = new king();
-        queen drottning = new queen();
-        rooks torn = new rooks();
-        bishops Löpare = new bishops();
-        knights häst = new knights();
-        pawns bönder = new pawns();
+        King king= new King();
+        Queen queen = new Queen();
+        Tower tower = new Tower();
+        Bishop bishop = new Bishop();
+        Knight knight = new Knight();
+        Pawn pawn = new Pawn();
 
+         +
          public override void GetPosition()
          {
          
