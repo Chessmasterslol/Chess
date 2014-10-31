@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Chessgame
 {
     //Styr kungen
-   internal class King : Fat
+   internal class King
     {
        
 

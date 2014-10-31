@@ -6,26 +6,26 @@ using System.Threading.Tasks;
 
 namespace Chessgame
 {
-     class ChessPiece  
+    class ChessPiece
     {
-        King king= new King();
+        King king = new King();
         Queen queen = new Queen();
         Tower tower = new Tower();
         Bishop bishop = new Bishop();
         Knight knight = new Knight();
         Pawn pawn = new Pawn();
 
-         +
-         public override void GetPosition()
-         {
-         
-         }
-            
-          public override string GetSymbol()
-        {
-           
-        }
-           
-        }
-    }
 
+        // public override void GetPosition()
+        // {
+
+        // }
+
+        //  public override string GetSymbol()
+        //{
+
+        //}
+
+        //}
+    }
+}

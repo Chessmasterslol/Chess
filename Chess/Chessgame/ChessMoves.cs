@@ -17,12 +17,6 @@ namespace Chessgame
        
     }
 
-    public abstract class Fat
-    {
-        public virtual int Move(int x, int y)
-        {
-            
-        }
-    }
+ 
 }
 
