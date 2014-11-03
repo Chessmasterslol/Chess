@@ -10,9 +10,15 @@ namespace Chessgame
     //ska styra Var pjäserna kan gå och sådant.
     public class ChessMoves
     {
+        //positionX är X positionerna
         public int positionX { get; set; }
+        //positionY är Y positionerna
         public int positionY { get; set; }
+
+        //
         public int x;
+
+        //
         public int y;
        
     }
