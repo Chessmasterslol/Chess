@@ -9,7 +9,7 @@ namespace Chessgame
     //Är shackbrädet.
     class Chessbord
     {
-        public string Chessbord()
+        public void Chesbord()
         {
             //skapar ett shackbräde som är 8 gånger 8
             //denna skapar en vit bakgrund som är 8x8
@@ -42,7 +42,7 @@ namespace Chessgame
                     Console.WriteLine();
                 }
             }
-            return ;
+            
         }
     }   
 }

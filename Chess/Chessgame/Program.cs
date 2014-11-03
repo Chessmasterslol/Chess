@@ -13,7 +13,7 @@ namespace Chessgame
         {
 
             Chessbord chess = new Chessbord();
-            
+            chess.Chesbord();
 
             //m_PlayerColor = "Black";
             //Console.WriteLine("Player color is...");

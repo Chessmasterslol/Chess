@@ -9,14 +9,9 @@ namespace Chessgame
     //Styr Bönderna
     class Pawn 
     {
-        private bool FirstMove = true;
-
-        public void Move()
-        {
-            if (FirstMove)
-            {
-
-            }
-        }
+        //public string Bonde()
+        //{
+            
+        //}
     }
 }
