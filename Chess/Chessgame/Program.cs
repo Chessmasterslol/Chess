@@ -15,6 +15,13 @@ namespace Chessgame
             Chessbord chess = new Chessbord();
             chess.Chesbord();
 
+            Pawn B = new Pawn();
+            
+            for (int x = 0; x < 1; x++)
+            {
+                Console.SetCursorPosition();
+            }
+        }
             //m_PlayerColor = "Black";
             //Console.WriteLine("Player color is...");
             //Console.WriteLine(m_PlayerColor);
@@ -32,5 +39,5 @@ namespace Chessgame
             Black,
         }
     }
-}
+
 

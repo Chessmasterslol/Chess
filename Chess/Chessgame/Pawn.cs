@@ -7,11 +7,13 @@ using System.Threading.Tasks;
 namespace Chessgame
 {
     //Styr Bönderna
-    class Pawn 
+   public class Pawn 
     {
-        //public string Bonde()
-        //{
-            
-        //}
+        public string Bonde()
+        {
+            string A = "I";
+            return A;
+
+        }
     }
 }

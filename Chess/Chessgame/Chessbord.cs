@@ -6,11 +6,17 @@ using System.Threading.Tasks;
 
 namespace Chessgame
 {
+
     //Är shackbrädet.
     class Chessbord
+
     {
+        
+
+          
         public void Chesbord()
         {
+           
             //skapar ett shackbräde som är 8 gånger 8
             //denna skapar en vit bakgrund som är 8x8
             for (int x = 0; x < 8; x++)
@@ -40,9 +46,10 @@ namespace Chessgame
                     Console.SetCursorPosition(x, y);
                     Console.Write(" ");
                     Console.WriteLine();
+                    
                 }
             }
-            
+           
         }
     }   
 }
